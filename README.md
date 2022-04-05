@@ -1,4 +1,4 @@
-### Oi! me chamo Gabriel. 
+### Oi! 
 
 <div align="center">
   <a href="https://github.com/ggggabriell">
