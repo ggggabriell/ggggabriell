@@ -11,7 +11,6 @@
   <img align="center" alt="Gabriel-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gabriel-FB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Gabriel-AS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="right" alt="Gabriel-gif" height="150" src="https://c.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif">
 </div>
   
   ##
