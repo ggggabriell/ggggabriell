@@ -20,7 +20,7 @@ Kotlin · Java · Jetpack Compose · XML · Clean Architecture · MVVM · MVI ·
 import dev.gabrielsantos.Developer
 
 class About : Developer(
-    name = "Gabriel Santos Farias",
+    name = "Gabriel Farias",
     area = "Android Engineer · Architecture Enthusiast",
     focus = "Kotlin · Clean Architecture · Scalable Systems",
     location = "São José dos Campos, SP - Brazil"
